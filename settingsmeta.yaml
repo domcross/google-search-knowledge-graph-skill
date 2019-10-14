@@ -3,7 +3,7 @@ skillMetadata:
     - name: Options
       fields:
         - type: label
-          label: Just a little bit of extra info for the user to understand following settings
+          label: You need a Google account and must create a <a href=https://console.developers.google.com/start/api?id=kgsearch.googleapis.com&credential=client_key>API key first</a>
         - name: api_key
           type: text
           label: Google API key
